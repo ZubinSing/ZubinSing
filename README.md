@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZubinSing
-- 👀 I’m interested in Data Sciences, Machine Learning and Game Development
+- 👀 I’m interested in Data Sciences, Machine Learning, Web Development and Game Development
 - 📫 How to reach me- Mail= s.zubin020@gmail.com
 
 <!---
